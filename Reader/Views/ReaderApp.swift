@@ -14,7 +14,7 @@ struct ReaderApp: App {
     let motionManager = MotionManager()
     
     // 用于存储识别验证结果
-    @State var locked = true
+    @State var locked = false // true
     
     var body: some Scene {
         WindowGroup {
