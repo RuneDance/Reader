@@ -1,0 +1,15 @@
+{
+  "originHash" : "11617593e6c8738f07aafc013bda7d656c4600dc8e5e786f1e5ad50ef40898b6",
+  "pins" : [
+    {
+      "identity" : "imagepickerview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ralfebert/ImagePickerView.git",
+      "state" : {
+        "revision" : "b84dd1c85a65cddba40c89699cd63ba0cb248dbd",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
